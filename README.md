@@ -47,4 +47,4 @@ Welcome to the official repository for our Python programming course! This repos
 ##  How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/sarahelnwam794-droid/python_course.git](https://github.com/sarahelnwam794-droid/python_course.git)
+   git clone [https://github.com/sarahelnwam794-droid/python_course]
